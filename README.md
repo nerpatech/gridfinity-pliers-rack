@@ -3,7 +3,4 @@ Modified pliers rack for Zack Friedman's Gridfinity system. The FreeCAD file is 
 
 For best results print with 0.2 mm layer height. The shelf will fit loosely in the slots of the bin to leave space for the adhesive. If a tighter fit is desired the width of the shelf can be increased by about 0.5% in the slicer.
 
-Gridfinity:
-
-Youtube: https://www.youtube.com/watch?v=ra_9zU-mnl8
-Website
+[Youtube Announcement](https://www.youtube.com/watch?v=ra_9zU-mnl8)
